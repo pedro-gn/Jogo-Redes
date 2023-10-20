@@ -1,7 +1,1 @@
-*
-
-# Unignore all with extensions
-!*.*
-
-# Unignore all dirs
-!*/makefile
+/bin
